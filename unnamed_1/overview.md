@@ -1,20 +1,25 @@
 # Unnamed_1
 
 ## Basic Features
-*a priori* - lexicon is not derived from native languages\\
+*a priori* - lexicon is not derived from native languages
+
 naturalistic - simulates evolution from a protolang
 
 ## Phonology
-h+C -> consoantes devozeadas e/ou pré-aspiradas\\
+h+C -> consoantes devozeadas e/ou pré-aspiradas
+
 abiho -> awiho -> awhio -> awhy
 
 ### Proto/Early Phonology
 minimal vowel inventory (a-i-u)
 
 ### Destination/Late Phonology
-vowel harmony (front-back)\\
-short-long vowel distinction\\
-pre-aspiration / [devoicing](https://chridd.nfshost.com/diachronica/search?q=%cc%a5) on nasals, glides, liquids\\
+vowel harmony (front-back)
+
+short-long vowel distinction
+
+pre-aspiration and/or [devoicing](https://chridd.nfshost.com/diachronica/search?q=%cc%a5) on nasals, glides, liquids
+
     na líquida fricatiza (https://www.native-languages.org/aleut_guide.htm)
 
 
